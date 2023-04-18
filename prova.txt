@@ -1,6 +1,10 @@
 <html>
 <body>
+<<<<<<< HEAD
 down
+=======
+negro
+>>>>>>> f1
 
 </body>
 </html>
